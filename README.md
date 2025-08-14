@@ -4,7 +4,6 @@
 - 📚 Estudante do 11º ano cursando Programação
 - 🔍 Trabalhando em projetos pessoais com foco no front-end
 - 💻 Atualmente estudando Python
-- 📫 Contato: <a href="https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSDXXxmqlcqlqZXhnHzlJWllhxHhwPsMdfkmHQLntrRLhbtsbSvdvsXWBFMmzHqwJGnPqPdH" target="_blank">samuel.quadros.x@gmail.com</a>
 
 ##
 
