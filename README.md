@@ -1,4 +1,4 @@
-<h1> Samuelç</h1>
+<h1> Olá, eu sou o Samuel 😝</h1>
 
 
 - 📚 Estudante do 11º ano cursando Programação
