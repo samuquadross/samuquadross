@@ -1,4 +1,4 @@
-Hi there
+<h1> Hi there! </h1>
 
 <!--
 **samuquadross/samuquadross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
