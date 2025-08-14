@@ -8,11 +8,11 @@
 
 ##
 
-<div style="display: inline_block">
-  <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px" height="40px">
-  <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px" height="40px">
-  <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px" height="40px">
-  <img align="center" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30px" height="40px">
+<div> 
+  <a href="https://instagram.com/samu.quadros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href = "https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSDXXxmqlcqlqZXhnHzlJWllhxHhwPsMdfkmHQLntrRLhbtsbSvdvsXWBFMmzHqwJGnPqPdH"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=351912128442&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat" target="_blank"></a> 
+  
 </div>
 
 
