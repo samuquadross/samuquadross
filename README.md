@@ -4,7 +4,6 @@
 - 📚 Estudante do 11º ano cursando Programação
 - 🔍 Trabalhando em projetos pessoais com foco no front-end
 - 💻 Atualmente estudando Python
-
 <h2></h2>
 
 <div> 
